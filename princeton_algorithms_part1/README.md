@@ -1,6 +1,17 @@
-### Introduction
+Coursera: 
+https://www.coursera.org/learn/algorithms-part1/home/welcome
 
-why study algorithms?
+## Introduction
+
+### Course Websites
+
+https://algs4.cs.princeton.edu/home/
+
+http://algs4.cs.princeton.edu/code/
+
+https://github.com/kevin-wayne/algs4
+
+### why study algorithms?
 - impact is broad and far-reaching
 - old roots, new opportunities
 - solve problems that could not otherwise be addressed
