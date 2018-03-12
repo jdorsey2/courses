@@ -1,0 +1,3 @@
+[submodule "interactive-python"]
+	path = interactive-python
+	url = git@github.com:gengwg/interactive-python.git
