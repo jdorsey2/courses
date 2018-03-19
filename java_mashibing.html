@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Chapter 1 Java Intro</h1>
+
+<p>My first paragraph.</p>
+
+<p> .java -(java compiler)-> .class --> (JVM interprete line by line)</p>
+
+<ul>
+<li>JVM</li>
+<li>Gabbage Collection</li>
+</ul>
+
+<p>J2SDK: JavalrSoftware Development Kit</p>
+<p>JRE: Java Runtime Environment</p>
+
+<p>Develop needs JDK. User need only JRE.</p>
+
+<p>class. class path.</p>
+
+<p>one one source file can only have one public class. file name must be same as public class. </p>
+
+<p>遇到错误记下。知识管理。</p>
+
+<p>platforms: two main, eclips, VB</p>
+
+<h1> Chapter 1 Basic grammar </h1>
+
+<p>variable is a part of memory.</p>
+
+<p>code segmaent, data segment, stack, heap</p>
+
+<p>boolean only has true or false. non nonzero.</p>
+
+<p>if there's a string on one side of "+", the other oprand will be converted to string before operation.</p>
+
+<p>x?y:z</p>
+
+<p>instance = object</p>
+<p>inheritance = IS_A TYPE OF</p>
+
+<p>reusablity, extensibility, maintainablity...</p>
+
+<p>package and import. package name is the reverse of company domain name. </p>
+
+package pkg1[.pkg2.pkg3]
+
+package com.bjsxt.java140;
+
+public class Cat {
+}
+
+Then it should exist at ./com/bjsxt/java140 directory.
+if want to use, must use full name: com.bjsxt.java140.Cat()
+
+or 
+import com.bjsxt.java140
+
+exception = run time error (not javac)
+
+<pre>
+public void someMethod()
+                    throws SomeException {
+    if (someCondition()) {
+        throw new SomeException("exception reason");
+    }
+}
+
+try {
+    someMethod();
+} catch (SomeException e) {
+    // exception process codes;
+}
+
+</pre>
+
+<p>
+declare array cannot designate it's length.
+
+reference type array, every element must be initialized.
+
+a.length
+
+<br></br>
+
+</p>
+
+<pre>
+public class Test {
+	public static void main (String args[]) {
+		int [] s;
+		s = new int[5]; // int a[] = new int[5];
+		for (int i = 0; i < 5; i++) {
+			s[i] = i;	
+		}
+	}
+}
+</pre>
+
+
+<pre>
+algorithms: sorting and search.
+search is usually based on sorting.
+
+dividing search is usually the fastest.
+
+use array to simulate a linked list.
+
+big companies like to interview algorithm and logics.
+small ones app development.
+
+2-d array is array of arrays.
+
+</pre>
+
+
+
+
+</body>
+</html>
