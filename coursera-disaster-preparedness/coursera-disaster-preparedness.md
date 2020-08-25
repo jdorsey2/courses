@@ -24,6 +24,7 @@ When you are discussing a “Disaster Plan” with your family, it is best to in
 Dehydrated and freeze-dried food should be rehydrated before consumption.
 
 The “Good Samaritan Law” in the U.S. protects those who deliver healthcare services in an emergency situation when:
+
 * the individual delivering the services is a volunteer
 * acts w/n her level of ability
 * acts within her scope of practice

@@ -1,3 +1,5 @@
+# Disaster Plans
+
 ## 1. Personal Background information
 
 *Describe the number of family members, unique needs or considerations (e.g., ages of family members, pets, or health issues), and geographic location.*
@@ -11,6 +13,7 @@ We live close to the bay but not too close about 4 miles. However there is a can
 *Describe the types of disasters that are most likely to occur in your area. How will the type of disaster impact your preparation?* 
 
 potential disasters  include:
+
 * Earthquakes
 * Mountain fire
 * Flu/Pandemics
@@ -34,6 +37,7 @@ My area is generally safe. The earthquake may be the biggest threat, but our bui
 - A “Jump Kit” is a pre-packed bag that includes basic care items, which allows you to act quickly in an emergency. Think of a Jump Kit as a grab-and-go bag. Develop a Jump Kit Checklist that lists items to pack in the event of an emergency such as food, water, change of clothes, important records, insurance policies, contact list, medications, and cash/financial needs. Some people keep their Jump Kit in their car.
 
 All the same but smaller amount.
+
   * Food: 2 cans for spam
   * medical supplies: 
   * water: water filters; one gal of water in car.
