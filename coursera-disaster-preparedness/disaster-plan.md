@@ -23,6 +23,8 @@ potential disasters  include:
 
 My area is generally safe. The earthquake may be the biggest threat, but our buildings should stand ordinary quakes. We plan to shelter in place if it happens. Or camp outside our backyard in case the house is danger to live in.
 
+In a pandemic or utility outage or looting, Most probably I can shelter-in-place. We have stored water for 2 weeks, and some non-perishable foods too. I have some woods so that we can reinforce the windows. Need buy more boards in case to replace the broken window glasses. I have some medical kits in a bag next to garage door. so that if we need evacuate, we can grab it. In case of Earthquake, i plan to go to the yard and camp. if house is still in good condition we can go back after the earth quake. in case of fire, we have outdoor hoses if there is still water supply. in case of severe earthquake/riots, we can drive car to south or follow authority instructions.
+
 ## 3. Home Preparedness and Jump Kit Checklists:
 
 - The “Home Preparedness Kit” is your large kit stored in a cool, dry place within your home. It should prepare your to survive in your home for 3 to 7 days without outside aid. Items will likely include food, water, bedding, tools (be specific), important records, insurance policies, contact list, medications, first aid, entertainment materials, and cash/financial needs.
